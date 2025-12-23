@@ -118,10 +118,8 @@ Contributions, issues and feature requests are welcome. Please open an issue on 
 
 - GitHub: [Priyanshu-Sahu](https://github.com/Priyanshu-Sahu)
 - LinkedIn: Replace the placeholder below with your LinkedIn profile URL so users can connect directly:
-  - Example (replace with your real profile): https://www.linkedin.com/in/PRIYANSHU-LINKEDIN-USERNAME
-
-If you'd like, provide your exact LinkedIn URL and I will update this README to include it.
+  - Example (replace with your real profile): [Priyanshu Sahu - LinkedIn](https://www.linkedin.com/in/priyanshu-sahu26/)
 
 ---
 
-Thank you for using unrollmyGmail — reclaim your inbox, one unsubscribe at a time.
+Thank you!
